@@ -20,7 +20,7 @@ comment:  This document provides a brief introduction to research data managemen
 
 ## What is a persona?
 
->![Frage](NFDI-Personas/images/teaching-mouse_what.png) <!-- width="100px" align="right" -->
+>![Frage](images/teaching-mouse_what.png) <!-- width="100px" align="right" -->
 >
 >The **persona method** has its **origin** in the field of **software development** and was and still is used for optimizing **human-computer-interactions**.
 >
@@ -43,7 +43,6 @@ comment:  This document provides a brief introduction to research data managemen
 ## Why personas?
 
 >**Personas can in general can help us in developing, maintaining and improving EduTrain services**:
----
 >
 >![Frage](NFDI-Personas/images/teaching-mouse_why.png) <!-- width="100px" align="right" -->
 >
