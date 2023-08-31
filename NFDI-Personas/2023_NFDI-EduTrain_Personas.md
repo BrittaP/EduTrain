@@ -6,7 +6,7 @@ version:  1.0
 language: en
 narrator: UK English Female
 
-icon:     NFDI-Personas\images\nfdi_rgb_Wortmarke_Zusatz_quer.png
+icon:     NFDI-Personas/images/nfdi_rgb_Wortmarke_Zusatz_quer.png
 
 comment:  This document provides a brief introduction to research data management for lecturers. It provides an overview of rdm related topics as well as some didactic and methodologies for teaching rdm to students.
 
